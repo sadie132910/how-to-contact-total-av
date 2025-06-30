@@ -1,6 +1,3 @@
-
-
-
 document.addEventListener("DOMContentLoaded", function () {
     var ze = document.createElement('script');
     ze.id = 'ze-snippet';
